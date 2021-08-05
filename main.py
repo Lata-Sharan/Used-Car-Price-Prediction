@@ -2,8 +2,19 @@ import pandas as pd
 from fastapi import FastAPI
 from schemas import CarPrice, CarPriceResponse
 import uvicorn
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+origins = [
+    "http://usedcarprice-predictor.herokuapp.com"
+]
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.get('/')
 def index():
