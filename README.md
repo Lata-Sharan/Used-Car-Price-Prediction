@@ -1,4 +1,4 @@
-# usedCarPrice-Predictor
+# UsedCarPrice-Predictor
 
 
 This is a Supervised Machine Learning based model. Algorithms used in this model are:
@@ -9,7 +9,7 @@ This is a Supervised Machine Learning based model. Algorithms used in this model
 * Random Forest for Regression
 * GridSearch CV on Random Forest
 
- Here, Selling Price of a used car is predicted on the basis of given features.
+ Here, Selling Price of a used car is predicted on the basis of given features like Year, Present Price, Kms Driven, Transmission mode, Seller Type, Fuel Type and owner.
  
  The R2 score and RMSE value from different models are found to be:
 ```
@@ -47,7 +47,9 @@ Heroku Cli
 ```
 
 ### FastAPI
-
+<p align="center">
+  <a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI"></a>
+</p>
 ---
 
 **Documentation**: <a href="https://fastapi.tiangolo.com" target="_blank">https://fastapi.tiangolo.com</a>
