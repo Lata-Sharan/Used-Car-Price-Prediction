@@ -68,8 +68,8 @@ FastAPI is a modern, fast (high-performance), web framework for building APIs wi
 Now go to <a href="http://127.0.0.1:8000/docs" class="external-link" target="_blank">http://127.0.0.1:8000/docs</a>.
 
 You will see the automatic interactive API documentation (provided by <a href="https://github.com/swagger-api/swagger-ui" class="external-link" target="_blank">Swagger UI</a>):
-![Swagger UI](Images/api.png)
-![Swagger UI](images/response.png)
+![Swagger UI](Images/fast1.PNG)
+![Swagger UI](Images/fast2.PNG)
 
 
 Heroku CLI
