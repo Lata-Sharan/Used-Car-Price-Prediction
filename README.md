@@ -29,12 +29,12 @@ Load the file car.csv from the model folder.
 
 ### Requirements
 
-Python <br>
-FastAPI<br>
-Sklearn<br>
-Uvicorn<br>
-Pandas<br>
-Heroku Cli
+1. Python <br>
+2. FastAPI<br>
+3. Sklearn<br>
+4. Uvicorn<br>
+5. Pandas<br>
+6. Heroku Cli
 
 ### Structure
 
@@ -48,7 +48,8 @@ Heroku Cli
 
 ### FastAPI
 <p align="center">
-  <a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI"></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="200" length="3![fast1](https://user-images.githubusercontent.com/86818157/128482674-5bd02230-c1e3-49da-81cc-14545aa5eff3.PNG)
+00" alt="FastAPI"></a>
 </p>
 ---
 
